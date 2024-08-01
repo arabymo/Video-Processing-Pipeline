@@ -1,0 +1,13 @@
+2024-08-01 04:26:58,366 - Retrieved video: “Whatever it Takes”  Full Documentary Film – 4K Original Version- Full Documentary Film
+2024-08-01 04:27:11,346 - Creating the output folder: part1
+2024-08-01 04:28:55,416 -  Exiting the loop if no frames are left.
+2024-08-01 04:28:55,425 - Extracted 33361 frames to 'part1'
+2024-08-01 04:28:55,434 - Creating the output folder: part2
+2024-08-01 04:30:39,178 -  Exiting the loop if no frames are left.
+2024-08-01 04:30:39,181 - Extracted 66721 frames to 'part2'
+2024-08-01 04:30:39,186 - Creating the output folder: part3
+2024-08-01 04:32:18,002 -  Exiting the loop if no frames are left.
+2024-08-01 04:32:18,009 - Extracted 100082 frames to 'part3'
+2024-08-01 04:32:18,013 - Creating the output folder: part4
+2024-08-01 04:33:52,512 -  Exiting the loop if no frames are left.
+2024-08-01 04:33:52,520 - Extracted 133440 frames to 'part4'
