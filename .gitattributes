@@ -2,3 +2,4 @@
 /content/Video-Processing-Pipeline/part1 filter=lfs diff=lfs merge=lfs -text
 /content/Video-Processing-Pipeline/part2 filter=lfs diff=lfs merge=lfs -text
 /content/Video-Processing-Pipeline/part3 filter=lfs diff=lfs merge=lfs -text
+/content/Video-Processing-Pipeline/part4 filter=lfs diff=lfs merge=lfs -text
